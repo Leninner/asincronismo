@@ -20,5 +20,8 @@
     "bugs": {
         "url": "https://github.com/Leninner/asincronismo/issues"
     },
-    "homepage": "https://github.com/Leninner/asincronismo#readme"
+    "homepage": "https://github.com/Leninner/asincronismo#readme",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
 }
